@@ -1,4 +1,4 @@
-# head_command
+# head_commad
 This tool is like the head command in Linux, but it’s free and open source
 
 usage:
